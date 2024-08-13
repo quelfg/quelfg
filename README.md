@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 💞
+## boas vindas ao meu perfil 🦅
 
 Meu nome é Raquel Fagundes dos Santos
 
@@ -10,4 +10,5 @@ Meu nome é Raquel Fagundes dos Santos
   0001122269596sp@al.educacao.sp.gov.br
   
 
-  
+  ![](![image](https://github.com/user-attachments/assets/6d04b83e-5d8e-42ae-807d-0e32b44cc780)
+
